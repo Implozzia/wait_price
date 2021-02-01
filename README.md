@@ -1,1 +1,1 @@
-# wait_price
+# Wait price for booking house program
